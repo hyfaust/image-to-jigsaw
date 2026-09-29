@@ -1,0 +1,21 @@
+﻿{
+  "defaults": {
+    "rows": 4,
+    "columns": 5,
+    "seed": 1234,
+    "showPreview": true,
+    "snapDistance": 24
+  },
+  "puzzles": [
+    {
+      "image": "images/sample-a.png",
+      "highlight": { "row": 1, "col": 2, "mode": "glow" }
+    },
+    {
+      "image": "images/sample-b.png",
+      "rows": 3,
+      "columns": 3,
+      "highlight": { "mode": "locked" }
+    }
+  ]
+}
